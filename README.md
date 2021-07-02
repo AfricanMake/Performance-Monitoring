@@ -10,8 +10,8 @@ The performance monitoring system will help answer these questions and more.
 
 The final product of the performance monitoring system will include the following necessary functions:
 
-Application and asset discovery
-Real-time tracking and monitoring capabilities
-Alerts and reporting capabilities 
+  > Application and asset discovery
+  > Real-time tracking and monitoring capabilities
+  > Alerts and reporting capabilities 
 
 The system performance monitoring tool will help users gain critical visibility into their networks by streamlining and automating many of these tasks.
